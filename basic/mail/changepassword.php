@@ -1,0 +1,1 @@
+<?=$user->username;?>, your password has been changed

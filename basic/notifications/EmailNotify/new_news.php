@@ -1,0 +1,1 @@
+Email new news <?=$model->title;?>#
